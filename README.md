@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the code for our paper **RumorMixer: Exploring Echo Chamber Effect and Platform Heterogeneity for Rumor Detection**, ECML-PKDD.
+This is the code for our paper **RumorMixer: Exploring Echo Chamber Effect and Platform Heterogeneity for Rumor Detection**, ECML-PKDD, 2024.
 It is a differentiable architecture search framework based on GraphMixer for rumor detection.
 
 ## Requirements:
